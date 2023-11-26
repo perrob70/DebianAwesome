@@ -1,0 +1,3 @@
+#!/bin/bash
+
+feh --bg-fill /home/perrob/wall/background4.jpg
